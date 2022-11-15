@@ -19,6 +19,9 @@
     <Compile Remove="08do while语句.cs" />
     <Compile Remove="09循环中的continue.cs" />
     <Compile Remove="10数组.cs" />
+    <Compile Remove="11函数.cs" />
+    <Compile Remove="12枚举.cs" />
+    <Compile Remove="13结构体.cs" />
     <Compile Remove="Framework.cs" />
   </ItemGroup>
 
@@ -33,6 +36,9 @@
     <None Include="08do while语句.cs" />
     <None Include="09循环中的continue.cs" />
     <None Include="10数组.cs" />
+    <None Include="11函数.cs" />
+    <None Include="12枚举.cs" />
+    <None Include="13结构体.cs" />
     <None Include="Framework.cs" />
   </ItemGroup>
 
