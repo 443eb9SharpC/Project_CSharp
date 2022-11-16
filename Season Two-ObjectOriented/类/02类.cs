@@ -2,11 +2,11 @@
 
 namespace Season_One_Beginning
 {
-    class Program01
+    class Program02
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
         }
     }
 }

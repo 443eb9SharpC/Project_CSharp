@@ -6,6 +6,8 @@
     <RootNamespace>Season_One_Beginning</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <RunAnalyzersDuringBuild>True</RunAnalyzersDuringBuild>
+    <RunAnalyzersDuringLiveAnalysis>True</RunAnalyzersDuringLiveAnalysis>
   </PropertyGroup>
 
   <ItemGroup>
@@ -22,6 +24,7 @@
     <Compile Remove="11函数.cs" />
     <Compile Remove="12枚举.cs" />
     <Compile Remove="13结构体.cs" />
+    <Compile Remove="14委托.cs" />
     <Compile Remove="Framework.cs" />
   </ItemGroup>
 
@@ -39,6 +42,7 @@
     <None Include="11函数.cs" />
     <None Include="12枚举.cs" />
     <None Include="13结构体.cs" />
+    <None Include="14委托.cs" />
     <None Include="Framework.cs" />
   </ItemGroup>
 

@@ -2,7 +2,7 @@
 
 namespace Season_One_Beginning
 {
-    class Program
+    class Program01
     {
         static int Sum(int[] nums)
         {

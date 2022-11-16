@@ -2,7 +2,7 @@
 
 namespace Season_One_Beginning
 {
-    class Program
+    class Program01
     {
         static double Multiply(double a, double b)
         {
