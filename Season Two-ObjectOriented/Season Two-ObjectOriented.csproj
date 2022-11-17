@@ -10,10 +10,16 @@
 
   <ItemGroup>
     <Compile Remove="01try,catch,finally处理异常.cs" />
+    <Compile Remove="02类基础\02类基础.cs" />
+    <Compile Remove="02类基础\Customer.cs" />
+    <Compile Remove="Framework02.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="01try,catch,finally处理异常.cs" />
+    <None Include="02类基础\02类基础.cs" />
+    <None Include="02类基础\Customer.cs" />
+    <None Include="Framework02.cs" />
   </ItemGroup>
 
 </Project>

@@ -25,7 +25,7 @@
     <Compile Remove="12枚举.cs" />
     <Compile Remove="13结构体.cs" />
     <Compile Remove="14委托.cs" />
-    <Compile Remove="Framework.cs" />
+    <Compile Remove="Framework01.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -43,7 +43,7 @@
     <None Include="12枚举.cs" />
     <None Include="13结构体.cs" />
     <None Include="14委托.cs" />
-    <None Include="Framework.cs" />
+    <None Include="Framework01.cs" />
   </ItemGroup>
 
 </Project>
