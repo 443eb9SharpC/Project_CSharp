@@ -12,6 +12,9 @@
     <Compile Remove="01try,catch,finally处理异常.cs" />
     <Compile Remove="02类基础\02类基础.cs" />
     <Compile Remove="02类基础\Customer.cs" />
+    <Compile Remove="03类继承\03类-继承.cs" />
+    <Compile Remove="03类继承\BaseClass.cs" />
+    <Compile Remove="03类继承\DrivedClass.cs" />
     <Compile Remove="Framework02.cs" />
   </ItemGroup>
 
@@ -19,6 +22,9 @@
     <None Include="01try,catch,finally处理异常.cs" />
     <None Include="02类基础\02类基础.cs" />
     <None Include="02类基础\Customer.cs" />
+    <None Include="03类继承\03类-继承.cs" />
+    <None Include="03类继承\BaseClass.cs" />
+    <None Include="03类继承\DrivedClass.cs" />
     <None Include="Framework02.cs" />
   </ItemGroup>
 
