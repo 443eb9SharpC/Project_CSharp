@@ -15,6 +15,14 @@
     <Compile Remove="03类继承\03类-继承.cs" />
     <Compile Remove="03类继承\BaseClass.cs" />
     <Compile Remove="03类继承\DrivedClass.cs" />
+    <Compile Remove="04类多态\04类-虚方法和隐藏方法.cs" />
+    <Compile Remove="04类多态\Boss.cs" />
+    <Compile Remove="04类多态\Enemy.cs" />
+    <Compile Remove="04类多态\抽象类和密封类\04类-抽象类和密封类.cs" />
+    <Compile Remove="04类多态\抽象类和密封类\BaseClass.cs" />
+    <Compile Remove="04类多态\抽象类和密封类\ChildClass.cs" />
+    <Compile Remove="04类多态\抽象类和密封类\ItemAbstract.cs" />
+    <Compile Remove="04类多态\抽象类和密封类\Weapon.cs" />
     <Compile Remove="Framework02.cs" />
   </ItemGroup>
 
@@ -25,6 +33,14 @@
     <None Include="03类继承\03类-继承.cs" />
     <None Include="03类继承\BaseClass.cs" />
     <None Include="03类继承\DrivedClass.cs" />
+    <None Include="04类多态\抽象类和密封类\04类-抽象类和密封类.cs" />
+    <None Include="04类多态\抽象类和密封类\BaseClass.cs" />
+    <None Include="04类多态\抽象类和密封类\ChildClass.cs" />
+    <None Include="04类多态\抽象类和密封类\ItemAbstract.cs" />
+    <None Include="04类多态\抽象类和密封类\Weapon.cs" />
+    <None Include="04类多态\虚方法和隐藏方法\04类-虚方法和隐藏方法.cs" />
+    <None Include="04类多态\虚方法和隐藏方法\Boss.cs" />
+    <None Include="04类多态\虚方法和隐藏方法\Enemy.cs" />
     <None Include="Framework02.cs" />
   </ItemGroup>
 

@@ -12,5 +12,10 @@ namespace Season_Two_ObjectOriented._04类多态
         {
             Console.WriteLine("敌人正在移动");
         }
+
+        public void AI()
+        {
+            Console.WriteLine("敌人的AI");
+        }
     }
 }
