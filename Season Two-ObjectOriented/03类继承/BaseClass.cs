@@ -17,5 +17,12 @@ namespace Season_Two_ObjectOriented._03类继承
         {
             Console.WriteLine(this.name + " " + this.attack + " " + this.hp);
         }
+
+        public BaseClass(string name, int attack)
+        {
+            this.name = name;
+            this.attack = attack;
+            Console.WriteLine("BaseClass构造");
+        }
     }
 }
