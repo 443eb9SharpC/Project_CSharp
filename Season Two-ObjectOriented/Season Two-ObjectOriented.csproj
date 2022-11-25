@@ -23,6 +23,9 @@
     <Compile Remove="04类多态\抽象类和密封类\ChildClass.cs" />
     <Compile Remove="04类多态\抽象类和密封类\ItemAbstract.cs" />
     <Compile Remove="04类多态\抽象类和密封类\Weapon.cs" />
+    <Compile Remove="04类多态\虚方法和隐藏方法\04类-虚方法和隐藏方法.cs" />
+    <Compile Remove="04类多态\虚方法和隐藏方法\Boss.cs" />
+    <Compile Remove="04类多态\虚方法和隐藏方法\Enemy.cs" />
     <Compile Remove="Framework02.cs" />
   </ItemGroup>
 
